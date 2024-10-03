@@ -6,7 +6,7 @@ To view or manipulate the class information, you need to download both the XML a
 
 ## Acknowlegent
 https://github.com/PurpleBooth/a-good-readme-template
-https://meet.google.com/yya-nqmb-ukn?authuser=1
+to create the read.me and our LND teacher for teaching us how to create and validate a .xml and .dtd
 
 ## Authors
 Carlos Luis Perez Santana
