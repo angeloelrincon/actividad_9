@@ -1,0 +1,11 @@
+<!ELEMENT classroom (teachers, students)>
+<!ELEMENT teachers (teacher+)>
+<!ELEMENT teacher (teacher_name, teacher_modules)>
+<!ELEMENT teacher_name (#PCDATA)>
+<!ELEMENT teacher_modules (teacher_module+)>
+<!ELEMENT teacher_module (#PCDATA)>
+<!ELEMENT students (student+)>
+<!ELEMENT student (student_name, student_modules)>
+<!ELEMENT student_name (#PCDATA)>
+<!ELEMENT student_modules (student_module+)>
+<!ELEMENT student_module (#PCDATA)>
